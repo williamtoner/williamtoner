@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2e,100:1f4e79&height=220&section=header&text=William%20Toner&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Research%20Scientist%20at%20Sakana%20AI%20%7C%20LLM%20Architectures%20%26%20Fast%20Decoding&descSize=20&descAlignY=60" width="100%" alt="William Toner - Research Scientist at Sakana AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1d2e,100:1f4e79&amp;height=220&amp;section=header&amp;text=William%20Toner&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Research%20Scientist%20at%20Sakana%20AI%20%7C%20LLM%20Architectures%20%26%20Fast%20Decoding&amp;descSize=20&amp;descAlignY=60" width="100%" alt="William Toner - Research Scientist at Sakana AI"/>
 
 ### New architectures and faster decoding for frontier language models
 
@@ -62,4 +62,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=IT6-kcAA
 
 I'm always happy to talk about **new architectures, speculative decoding and fast decoding**, research collaborations, or hard problems in applied ML. The best way to reach me is by [email](mailto:williamtoner@sakana.ai) or on [LinkedIn](https://www.linkedin.com/in/william-toner-ml).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,100:0b1d2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1f4e79,100:0b1d2e&amp;height=120&amp;section=footer" width="100%" alt=""/>
