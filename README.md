@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1d2e,100:1f4e79&amp;height=220&amp;section=header&amp;text=William%20Toner&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Research%20Scientist%20at%20Sakana%20AI%20%7C%20LLM%20Architectures%20%26%20Fast%20Decoding&amp;descSize=20&amp;descAlignY=60" width="100%" alt="William Toner - Research Scientist at Sakana AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2e,100:1f4e79&height=220&section=header&text=William%20Toner&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Research%20Scientist%20at%20Sakana%20AI%20%7C%20LLM%20Architectures%20and%20Fast%20Decoding&descSize=20&descAlignY=60" width="100%" alt="William Toner - Research Scientist at Sakana AI"/>
 
 ### New architectures and faster decoding for frontier language models
 
