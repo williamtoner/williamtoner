@@ -26,7 +26,7 @@ Before Sakana I spent two years at **Huawei** working on efficient LLM inference
 
 | Now | Previously | Education | Research |
 |:---:|:---:|:---:|:---:|
-| Research Scientist, **Sakana AI** (Tokyo) | Efficient LLM inference, **Huawei** (2 yrs) | **PhD**, University of Edinburgh | 130+ citations on [Google Scholar](https://scholar.google.com/citations?user=IT6-kcAAAAAJ) |
+| Research Scientist, **Sakana AI** (Tokyo) | Efficient LLM inference, **Huawei** (2 yrs) | **PhD**, University of Edinburgh |  [Google Scholar](https://scholar.google.com/citations?user=IT6-kcAAAAAJ) |
 
 ## Selected publications
 
